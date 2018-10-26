@@ -18,7 +18,7 @@ NOTE: This resource shipped in Chef 14.3. This cookbook will be deprecated in Ap
 
 ### Chef
 
-- Chef 13+
+- Chef 12+
 
 ## Resources
 
